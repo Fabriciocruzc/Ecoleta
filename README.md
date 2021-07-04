@@ -12,6 +12,14 @@
 
 ## Fotos App
 
+<div>
+  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/AppHome.png" width="250" height="400"/>
+  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/AppBemVindo.png" width="250" height="400"/>
+  <br>
+  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/AppBemVindo2.png" width="250" height="400" />
+  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/Contato.png" width="250" height="400" />
+</div>
+
 ## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
