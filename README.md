@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone o Repositório
-$ git@github.com:tavareshenrique/Hero.git
+$ git@github.com:tavareshenrique/Ecoleta.git
 ```
 
 ```bash
