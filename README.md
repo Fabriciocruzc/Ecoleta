@@ -4,11 +4,13 @@
 ## Fotos
 
 <div>
-  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/CadatroHome.png" width="400" height="300"/>
-  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/Cad1.png" width="400" height="300"/>
-  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/cad2.png" width="400" height="300" />
-  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/cad3.png" width="400" height="300" />
+  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/CadatroHome.png" width="500" height="400"/>
+  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/Cad1.png" width="500" height="400"/>
+  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/cad2.png" width="500" height="400" />
+  <img src="https://github.com/Fabriciocruzc/Ecoleta/blob/master/imgs/cad3.png" width="500" height="400" />
 </div>
+
+## Fotos App
 
 ## Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
